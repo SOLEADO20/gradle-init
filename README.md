@@ -23,8 +23,6 @@ gradle-init 是一个用于快速初始化 Gradle 项目仓库的 PowerShell 脚
 
 ## 大致工作逻辑
 
-指定要修改的文件 -> 设置要插入的仓库 -> 读取文件内容并完成内容替换 -> 是否存在实际更改
-
 ```mermaid
 graph TD;
 	Start[开始]-->SendFile[给定要修改的文件]
