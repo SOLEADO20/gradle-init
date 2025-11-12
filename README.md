@@ -194,3 +194,7 @@ gradle-init
 ### 5. 检查IDE的构建窗口，确保已经开始从镜像仓库下载依赖。
 
 嗯。就是这样。
+
+## 运行效果
+
+![](./doc/images/Screenshot_00.png)
